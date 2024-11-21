@@ -1,0 +1,18 @@
+# Table of contents
+
+* [Introduction](README.md)
+* [Bitcoin fundamentals](bitcoin-fundamentals.md)
+* [Self-custody fundamentals](self-custody-fundamentals.md)
+* [Wallets](wallets.md)
+* [Setting up your first wallet](setting-up-your-first-wallet.md)
+* [Backup strategies](backup-strategies.md)
+* [Best practices for UTXO management and privacy](best-practices-for-utxo-management-and-privacy.md)
+* [Operational security](operational-security.md)
+* [Runnin a Bitcoin node](runnin-a-bitcoin-node.md)
+* [Using the Lightning Network](using-the-lightning-network.md)
+* [Advanced topics](advanced-topics.md)
+* [Troubleshooting & FAQ](troubleshooting-and-faq.md)
+* [Conclusion](conclusion.md)
+* [Security checklist](security-checklist.md)
+* [Glossary](glossary.md)
+* [Appendices](appendices.md)
