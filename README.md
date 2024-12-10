@@ -1,3 +1,8 @@
+---
+cover: .gitbook/assets/sov (2).png
+coverY: 0
+---
+
 # Introduction
 
 ## Purpose and scope of the guide
@@ -31,4 +36,11 @@ Remember that the world of Bitcoin is constantly evolving. While this guide prov
 
 Now, let's begin our journey towards true Bitcoin sovereignty. The first step is understanding the basics of how Bitcoin works.
 
-\
+***
+
+### Credits
+
+This document was created and is maintained by Tristan Borges Solari.
+
+Follow them on X: [@tristanborgess](https://x.com/TristanBorgess)\
+Get in touch: [t.borges@bitcoinwell.com](mailto:t.borges@bitcoinwell.com)\
